@@ -65,3 +65,29 @@ elif marks >= 50:
 else:
     print("Fail")
 
+# Program 6: Divisible by 3 and 5
+num = int(input("Enter a number: "))
+
+if num % 3 == 0 and num % 5 == 0:
+    print("Divisible by both 3 and 5")
+else:
+    print("Not divisible by both 3 and 5")
+
+# Program 7: Vowel or Consonant
+ch = input("Enter a character: ").lower()
+
+if ch in "aeiou":
+    print("Vowel")
+else:
+    print("Consonant")
+
+# Program 8: Simple Login System
+username = input("Enter username: ")
+password = input("Enter password: ")
+
+if username == "admin" and password == "1234":
+    print("Login successful")
+else:
+    print("Invalid credentials")
+
+
