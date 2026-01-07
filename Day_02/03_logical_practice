@@ -1,0 +1,30 @@
+#Print your name & age
+name = input("Enter your Name :")
+age = int(input("Enter your Age :"))
+
+print(f"\nName: {name}")
+print(f"Age: {age}")
+
+#Swap two numbers
+a=int(input("Enter a Number :"))
+b=int(input("Enter another Number :"))
+
+print(f"a = {a} and b = {b} , before swapping")
+
+#logic
+temp=a 
+a=b
+b=temp
+
+print(f"a = {a} and b = {b} , after swapping")
+
+#Even or Odd Checker
+num=int(input("Enter a Number :"))
+
+if num==0:
+    print("The number is 0")
+elif num%2!=0 or num==1:
+    print("The number is odd")
+else:
+    print("The number is even")
+    
