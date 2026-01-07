@@ -12,6 +12,9 @@
 - Largest of three numbers
 - Leap year checker
 - Grading system
+- Divisible by 3 and 5
+- Vowel or Consonant
+- Simple Login System
 
 ## Notes
 - Learned how Python checks conditions top to bottom
