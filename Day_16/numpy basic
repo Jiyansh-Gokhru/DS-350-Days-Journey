@@ -1,0 +1,8 @@
+## NumPy Basics
+
+- NumPy stands for Numerical Python.
+- It is used for fast numerical and mathematical operations.
+- NumPy arrays are faster than Python lists.
+- It supports multi-dimensional arrays.
+- It is the foundation of Pandas, Machine Learning, and Deep Learning.
+- NumPy allows vectorized operations without loops.
